@@ -1,0 +1,111 @@
+/* font-family: 'Concert One', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'PT Sans', sans-serif; */
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat',sans-serif;
+    background-image: url("../img/index.png");
+    background-repeat: repeat;
+}
+h1, h2, h3{
+    font-weight: 800;
+}
+/* login */
+.login-icon{
+   border: none;
+   margin: auto;
+   padding: 5px;
+}
+.icon-house{
+    margin: auto;
+    border: none;
+    padding: none;
+}
+/* header */
+.judul-web{
+    text-align: center;
+    color: white !important;
+    padding: 30px;
+    background-color: #00b386 !important;
+}
+.foot{
+    width: 100%;
+    position: relative;
+    height: auto;
+    background-color: #00664d;
+    color: white !important;
+    margin-top: 50px;
+}
+/* navbar */
+.my-nav{
+    background-color: #00b386 !important;
+}
+.nav-list{
+    color: white !important;
+}
+.nav-item{
+    margin: 0px 2px;
+    padding: 5px;
+}
+.nav-item:hover{
+    background-color: #00ffbf;
+}
+
+/* carousel */
+.my-carousel{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+}
+
+/* content */
+.content{
+    padding: 50px;
+}
+.my-row{
+    margin-top: 30px !important;
+}
+.my-col{
+        background-color: #ccfff2;
+}
+.daftar-tbl{
+    margin: auto;
+    text-align: center;
+}
+/* Grid */
+.semoga-bisa{
+    background-color: #ffd699 !important;
+    border-radius: 5%;
+    margin: 40px auto;
+}
+
+/* daftar form  */
+.form-container{
+    /* width: 400px; */
+    /* height: auto; */
+    margin: 20px auto;
+    /* background-color: #ffd699; */
+    padding: 10px;
+}
+.my-form{
+    margin: auto;
+}
+.kirim-data{
+    margin-top: 20px;
+}
+/* show data */
+.show-input{
+    background-color: #fff;
+    border-radius: 5%;
+    margin: 45px;
+    padding: 20px;
+}
+
+.left {
+    font-weight: bold;
+    padding: 5px, 0px, 5px, 20px;
+}
+
+.right{
+    padding: 0px 10px;
+}
